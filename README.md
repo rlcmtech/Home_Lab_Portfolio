@@ -1,2 +1,2 @@
-# Hands-on-Documentation
-Good day! Thank you for visiting my profile. To see my completed hands-on documentation, kindly access this repository. 
+#Home Lab
+Good day! Thank you for visiting my profile. To see view my networking portfolio and hands on activities, kindly access this repository. 
